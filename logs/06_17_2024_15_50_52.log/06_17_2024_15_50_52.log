@@ -1,0 +1,6 @@
+[ 2024-06-17 15:50:53,403 ] 160 numexpr.utils - INFO - NumExpr defaulting to 8 threads.
+[ 2024-06-17 15:50:57,399 ] 224 werkzeug - WARNING -  * Debugger is active!
+[ 2024-06-17 15:50:57,413 ] 224 werkzeug - INFO -  * Debugger PIN: 126-156-132
+[ 2024-06-17 15:52:36,310 ] 224 werkzeug - INFO -  * Detected change in 'D:\\DiamondPricePrediction\\setup.py', reloading
+[ 2024-06-17 15:52:36,683 ] 224 werkzeug - INFO -  * Detected change in 'D:\\DiamondPricePrediction\\setup.py', reloading
+[ 2024-06-17 15:52:36,716 ] 224 werkzeug - INFO -  * Detected change in 'D:\\DiamondPricePrediction\\setup.py', reloading
